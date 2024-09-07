@@ -2,16 +2,14 @@
 
 module faultFree_2_tb();
   
-  reg A,B,C,D,  G0,E0,J1;
-  wire K;
- 
-  reg G0_fault = 0, E0_fault = 0, J1_fault = 1;
-  reg G0_ff = 1, E0_ff = 1, J1_ff = 0;
-  
-  reg [3:0] word;
- 
- faultFree_2 ff (K, A,B,C,D,  G0,E0,J1);
- 
+    reg A,B,C,D,  G0,E0,J1;
+    wire K;
+
+    reg G0_fault = 0, E0_fault = 0, J1_fault = 1;
+    reg G0_ff = 1, E0_ff = 1, J1_ff = 0;
+
+    reg [3:0] word;
+    faultFree_2 ff (K, A,B,C,D,  G0,E0,J1);
  
 initial begin
     //fault free simulation  ----------------	
