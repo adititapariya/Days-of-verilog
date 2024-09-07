@@ -1,1 +1,17 @@
 # 100-days-of-verilog
+
+This repository contains a 100-day journey through Verilog, where each day focuses on implementing and understanding a specific digital design concept.
+
+## Progress
+
+- **Day 1**: Parallel Fault Simulation  
+- **Day 2**: Parallel Pattern Single Fault Simulation  
+- **Day 3**: Faulty Transistor  
+- **Day 4**: Faulty MUX  
+- **Day 5**: Counter  
+- **Day 6**: ALU with Faulty MUX  
+- **Day 7**: ALU  
+- **Day 8**: Demux  
+- **Day 9**: Decoder  
+- **Day 10**: Synchronous Flip-Flop  
+- **Day 11**: Asynchronous Flip-Flop 
