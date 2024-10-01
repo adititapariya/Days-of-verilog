@@ -1,6 +1,6 @@
-# 100-days-of-verilog
+# Days-of-verilog
 
-This repository contains a 100-day journey through Verilog, where each day focuses on implementing and understanding a specific digital design concept.
+This repository contains a journey through Verilog, where each day focuses on implementing and understanding a specific digital design concept.
 
 ## Progress
 
