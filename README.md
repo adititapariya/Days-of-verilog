@@ -15,3 +15,5 @@ This repository contains a journey through Verilog, where each day focuses on im
 - **Day 9**: Decoder  
 - **Day 10**: Synchronous Flip-Flop  
 - **Day 11**: Asynchronous Flip-Flop 
+- **Day 12**: Stack/LIFO
+- **Day 13**: Synchronous FIFO
