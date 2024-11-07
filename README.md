@@ -17,3 +17,5 @@ This repository contains a journey through Verilog, where each day focuses on im
 - **Day 11**: Asynchronous Flip-Flop 
 - **Day 12**: Stack/LIFO
 - **Day 13**: Synchronous FIFO
+- **Day 14**: Binary to Gray Converter
+- **Day 15**: Gray to Binary Converter
