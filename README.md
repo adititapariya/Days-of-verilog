@@ -19,3 +19,4 @@ This repository contains a journey through Verilog, where each day focuses on im
 - **Day 13**: Synchronous FIFO
 - **Day 14**: Binary to Gray Converter
 - **Day 15**: Gray to Binary Converter
+- **Day 16**: Ripple Carry Adder
