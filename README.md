@@ -21,3 +21,7 @@ This repository contains a journey through Verilog, where each day focuses on im
 - **Day 15**: Gray to Binary Converter
 - **Day 16**: Ripple Carry Adder
 - **Day 17**: Carry Look Ahead Adder
+- **Day 18**: Binary Encoder
+- **Day 19**: Priority Encoder
+- **Day 20**: Binary Decoder
+- **Day 21**: Comparator
