@@ -25,3 +25,4 @@ This repository contains a journey through Verilog, where each day focuses on im
 - **Day 19**: Priority Encoder
 - **Day 20**: Binary Decoder
 - **Day 21**: Comparator
+- **Day 22**: Universal Shift Register
