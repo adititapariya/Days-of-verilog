@@ -29,3 +29,5 @@ This repository contains a journey through Verilog, where each day focuses on im
 - **Day 23**: Linear-Feedback Shift Register (LFSR)
 - **Day 24**: Generation of Clock from System Clock
 - **Day 25**: T Flip Flop
+- **Day 26**: SR Flip Flop
+- **Day 27**: JK Flip Flop
