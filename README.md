@@ -31,7 +31,21 @@ This repository contains a journey through Verilog, where each day focuses on im
 - **Day 25**: T Flip Flop
 - **Day 26**: SR Flip Flop
 - **Day 27**: JK Flip Flop
-- **Day 28**: 1010 Non-Overlapping Moore Sequence Detector
-- **Day 29**: 1010 Overlapping Moore Sequence Detector
-- **Day 30**: 1010 Non-Overlapping Mealy Sequence Detector
-- **Day 31**: 1010 Overlapping Mealy Sequence Detector
+- **Day 28**: 101 Non-Overlapping Moore Sequence Detector
+- **Day 29**: 101 Overlapping Moore Sequence Detector
+- **Day 30**: 101 Non-Overlapping Mealy Sequence Detector
+- **Day 31**: 101 Overlapping Mealy Sequence Detector
+- **Day 32**: 110 Moore Sequence Detector
+- **Day 33**: 110 Mealy Sequence Detector
+- **Day 34**: 1001 Non-Overlapping Moore Sequence Detector
+- **Day 35**: 1001 Overlapping Moore Sequence Detector
+- **Day 36**: 1001 Non-Overlapping Mealy Sequence Detector
+- **Day 37**: 1001 Overlapping Mealy Sequence Detector
+- **Day 38**: 1011 Non-Overlapping Moore Sequence Detector
+- **Day 39**: 1011 Overlapping Moore Sequence Detector
+- **Day 40**: 1011 Non-Overlapping Mealy Sequence Detector
+- **Day 41**: 1011 Overlapping Mealy Sequence Detector
+- **Day 42**: 1010 Non-Overlapping Moore Sequence Detector
+- **Day 43**: 1010 Overlapping Moore Sequence Detector
+- **Day 44**: 1010 Non-Overlapping Mealy Sequence Detector
+- **Day 45**: 1010 Overlapping Mealy Sequence Detector
