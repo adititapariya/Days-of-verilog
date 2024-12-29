@@ -60,5 +60,6 @@ This repository contains a journey through Verilog, where each day focuses on im
 - **Day 54**: Wallace Tree Multiplier
 - **Day 55**: D Flip Flop with Asynchronous Reset
 - **Day 56**: D Flip Flop with Synchronous Reset
-- **Day 57**: Asynchronous Counter
-- **Day 58**: Asynchronous FIFO
+- **Day 57**: 4-bit Up-Down Synchronous Counter
+- **Day 58**: 4-bit Up-Down Asynchronous Counter
+- **Day 59**: Asynchronous FIFO
