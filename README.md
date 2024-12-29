@@ -8,7 +8,7 @@ This repository contains a journey through Verilog, where each day focuses on im
 - **Day 2**: Parallel Pattern Single Fault Simulation  
 - **Day 3**: Faulty Transistor  
 - **Day 4**: Faulty MUX  
-- **Day 5**: Counter  
+- **Day 5**: Synchronous Counter  
 - **Day 6**: ALU with Faulty MUX  
 - **Day 7**: ALU  
 - **Day 8**: Demux (1:2, 1:4 and 1:4 using 1:2)
@@ -60,5 +60,5 @@ This repository contains a journey through Verilog, where each day focuses on im
 - **Day 54**: Wallace Tree Multiplier
 - **Day 55**: D Flip Flop with Asynchronous Reset
 - **Day 56**: D Flip Flop with Synchronous Reset
-- **Day 57**: _____ Counter
+- **Day 57**: Asynchronous Counter
 - **Day 58**: Asynchronous FIFO
