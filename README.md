@@ -11,7 +11,7 @@ This repository contains a journey through Verilog, where each day focuses on im
 - **Day 5**: Counter  
 - **Day 6**: ALU with Faulty MUX  
 - **Day 7**: ALU  
-- **Day 8**: Demux  
+- **Day 8**: Demux (1:2, 1:4 and 1:4 using 1:2)
 - **Day 9**: Decoder  
 - **Day 10**: Synchronous Flip-Flop  
 - **Day 11**: Asynchronous Flip-Flop 
@@ -49,3 +49,16 @@ This repository contains a journey through Verilog, where each day focuses on im
 - **Day 43**: 1010 Overlapping Moore Sequence Detector
 - **Day 44**: 1010 Non-Overlapping Mealy Sequence Detector
 - **Day 45**: 1010 Overlapping Mealy Sequence Detector
+- **Day 46**: Half Adder
+- **Day 47**: Full Adder
+- **Day 48**: Half Subtractor
+- **Day 49**: Full Subtractor
+- **Day 50**: 4-bit Adder Subtractor
+- **Day 51**: MUX (2:1, 4:1, 3:1 and 4:1 using 2:1)
+- **Day 52**: Array Multiplier
+- **Day 53**: Booth's Multiplier
+- **Day 54**: Wallace Tree Multiplier
+- **Day 55**: D Flip Flop with Asynchronous Reset
+- **Day 56**: D Flip Flop with Synchronous Reset
+- **Day 57**: _____ Counter
+- **Day 58**: Asynchronous FIFO
