@@ -1,0 +1,23 @@
+To check FIFO full and empty conditions in another domain, we have two ways.
+
+Way 1
+Convert received gray code formatted pointers to binary format and then check for the full and empty conditions.
+
+#FIFO full condition
+g2b_converter g2b_wr(g_rptr_sync, b_rptr_sync);
+wrap_around = b_rptr_sync[PTR_WIDTH] ^ b_wptr[PTR_WIDTH];
+wfull = wrap_around & (b_wptr[PTR_WIDTH-1:0] == b_rptr_sync[PTR_WIDTH-1:0]);
+
+#FIFO empty condition
+g2b_converter g2b_rd(g_wptr_sync, b_wptr_sync);
+rempty = (b_wptr_sync == b_rptr_next);
+
+Way 2
+Check for full and empty conditions directly with the help of gray coded write and read pointer received. 
+This is efficient as it does not need extra hardware for converting gray-coded write and read pointers to equivalent binary forms.
+
+#FIFO full condition
+wfull = (g_wptr_next == {~g_rptr_sync[PTR_WIDTH:PTR_WIDTH-1], g_rptr_sync[PTR_WIDTH-2:0]});
+
+#FIFO empty condition
+rempty = (g_wptr_sync == g_rptr_next);
